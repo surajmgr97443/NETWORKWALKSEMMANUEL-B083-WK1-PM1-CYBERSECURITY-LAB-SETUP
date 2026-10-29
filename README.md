@@ -59,7 +59,7 @@ For each VM:
 4. Under Network connection, select **NAT: Used to share the host's IP address**.
 5. Click **OK**.
 
-*(Screenshot: `screenshots/kali-network-adapter-nat.png`)*
+
 
 ---
 
@@ -80,7 +80,7 @@ Result for `eth0`:
 | Broadcast | `10.10.10.255`      |
 | MAC       | `00:0c:29:08:7c:57` |
 
-*(Screenshot: `screenshots/kali-ifconfig.png`)*
+
 
 ---
 
@@ -104,7 +104,7 @@ ping 10.10.10.19
 - Packets: 4 transmitted, 4 received, **0% packet loss**
 - Average response time: ~1.1 ms
 
-*(Screenshot: `screenshots/kali-ping-results.png`)*
+
 
 ---
 
