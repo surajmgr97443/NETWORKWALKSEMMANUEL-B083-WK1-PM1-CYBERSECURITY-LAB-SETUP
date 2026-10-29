@@ -43,8 +43,8 @@ Set up a virtual lab with Kali Linux, Windows 10 and an Android VM in VMware Wor
 3. Select the ISO for each OS and complete the installation.
 4. Allocate memory, processors and disk space to each VM.
 
-*(Screenshot: `<img width="1836" height="1042" alt="Screenshot 2026-10-29 180552" src="https://github.com/user-attachments/assets/1b695a99-b81f-4fb8-8b69-5cfe55a25094" />
-`)*
+<img width="1836" height="1042" alt="Screenshot 2026-10-29 180552" src="https://github.com/user-attachments/assets/1b695a99-b81f-4fb8-8b69-5cfe55a25094" />
+
 
 ---
 
